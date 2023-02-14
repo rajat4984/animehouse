@@ -11,6 +11,8 @@
   font-family: "Heebo", sans-serif;
 }
 
-/* .navbar {
-  background-color: var(--mypurple);
-} */
+a{
+  color: white;
+  text-decoration: none;
+}
+
